@@ -1,5 +1,4 @@
-# Mankind
-## A Radical Culture to Fund
+## Mankind: A Radical Culture to Fund
 
 Quadratic Funding is a common short name for Constrained Liberal Radicalism algorithm proposed by Vitalik Buterin 2018, and is a crowdfund matching mechanism for public goods, like open source. The authors of the paper summaries the mathematical idea as below.
 
